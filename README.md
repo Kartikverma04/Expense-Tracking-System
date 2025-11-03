@@ -11,13 +11,13 @@
 
 
 ### Add/Update Expenses
-![Add Expense](Screenshot 2025-11-03 204621.png)
+![Add Expense](https://github.com/user-attachments/assets/c580287c-f0d5-4d3a-beb6-6ae6bf941d60)
 
 ### Analytics by Category
-![Category Analytics](screenshots/category_analytics.png)
+![Category Analytics](https://github.com/user-attachments/assets/7c846805-3201-4741-87cf-2d45971ada09)
 
 ### Monthly Analytics
-![Monthly Analytics](screenshots/monthly_analytics.png)
+![Monthly Analytics](https://github.com/user-attachments/assets/3319c2ec-5ae4-47a1-ab5b-df78f1b8f46d)
 
 ---
 
@@ -266,4 +266,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 Made with 💰 for better financial management
 
 </div>
+
 
